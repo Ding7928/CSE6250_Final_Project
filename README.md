@@ -16,8 +16,8 @@ pip install -r requirements.txt
 
 ## Dataset
 
-**Real Dataset**: ePBRN dataset (ensure you have legal access and save the file as .csv).  
-**Synthetic Dataset**: FEBRL dataset (generated using FEBRL's official generator).  
+- **Real Dataset**: ePBRN dataset (ensure you have legal access and save the file as .csv).  
+- **Synthetic Dataset**: FEBRL dataset (generated using FEBRL's official generator).  
 No pretrained models are required as all models are trained from scratch.
 
 ## Functionality of Scripts
