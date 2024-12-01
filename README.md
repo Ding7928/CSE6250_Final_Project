@@ -35,5 +35,5 @@ No pretrained models are required as all models are trained from scratch.
    Instructions to Run the Code
    Clone the Repository
 
-**Reproduce results for FERBL dataset by running `FERBL.ipynb`**  
-**Reproduce results for ePBRN dataset by running `ePBRN.ipynb`**
+- **Reproduce results for FERBL dataset by running `FERBL.ipynb`**  
+- **Reproduce results for ePBRN dataset by running `ePBRN.ipynb`**
