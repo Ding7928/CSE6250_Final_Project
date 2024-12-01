@@ -6,7 +6,7 @@ This repository implements and evaluates ensemble methods (Bagging and Stacking)
 
 ## Dependencise
 
-**Note:make sure you're in '/CSE6250_FINAL_PROJECT'directory**
+**Note:make sure you're in `/CSE50_FINAL_PROJECT` directory**
 
 ```sh
 python -m venv venv
@@ -35,6 +35,8 @@ No pretrained models are required as all models are trained from scratch.
    Instructions to Run the Code
    Clone the Repository
 
-**Reproduce results for FERBL dataset by running'FERBL.ipynb'**
+**Reproduce results for FERBL dataset by running `FERBL.ipynb`**
+
 <br>
-**Reproduce results for ePBRN dataset by running'ePBRN.ipynb'**
+
+**Reproduce results for ePBRN dataset by running `ePBRN.ipynb`**
